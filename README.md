@@ -1,16 +1,37 @@
-# hastanedevice
+# 🏥 Hospital Device Maintenance Tracker
+This mobile application is designed to track the maintenance and repair of devices used in hospitals.  
+It is built with Flutter and works on Android platforms.
 
-A new Flutter project.
+### ✨ Features
+- 📋 Device list grouped by hospital
+- 🔧 Device details (Name, Serial Number, Maintenance Date, Status, Notes)
+- ➕ Add new device
+- ✏️ Edit existing device information
+- 🗑️ Delete device
+- 📱 Modern and user-friendly interface
 
-## Getting Started
+### 🛠️ Technologies
+- [Flutter](https://flutter.dev/) (built with Dart)
+- Material Design UI components
 
-This project is a starting point for a Flutter application.
+### 🚀 Installation
+1. Clone this project:
+   ```bash
+   git clone https://github.com/username/hospital-device-tracker.git
+   cd hospital-device-tracker
+   
+2. Install dependencies:
+  ```bash
+  flutter pub get
+```
+3. Run the app:
+    ```bash
+    flutter run
+  
+### 📷 Screenshots
+  <p float="left">
+  <img src="screenshots/screenshot1.png" width="200" />
+  <img src="screenshots/screenshot2.png" width="200" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    
