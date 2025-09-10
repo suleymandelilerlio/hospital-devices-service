@@ -30,8 +30,8 @@ It is built with Flutter and works on Android platforms.
   
 ### 📷 Screenshots
   <p float="left">
-  <img src="screenshots/screenshot1.png" width="200" />
-  <img src="screenshots/screenshot2.png" width="200" />
+  <img src="screenshots/main_page.jpg" width="300" />
+  <img src="screenshots/devices_page.jpg" width="300" />
 </p>
 
     
